@@ -1,0 +1,8 @@
+MIDlet-1: Main, ,Control.Main
+MIDlet-Jar-Size: 1278253
+MIDlet-Jar-URL: SMS.jar
+MIDlet-Name: SMS
+MIDlet-Vendor: Vendor
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
